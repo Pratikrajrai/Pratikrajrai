@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Pratikrajrai
-- 👀 I’m interested in coding coding coding
+- 🧑🏽‍💻 I’m interested in coding coding coding
 - 🌱 I’m currently learning coding coding coding
-- 💞️ I’m looking to collaborate on coding coding coding
+-  I’m looking to collaborate on coding coding coding
 - 📫 How to reach me ig @raipratikraj
 
 <!---
