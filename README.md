@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Pratikrajrai
-- 🧑🏽‍💻 I’m interested in coding coding coding
-- 🌱 I’m currently learning coding coding coding
--  I’m looking to collaborate on coding coding coding
-- 📫 How to reach me ig @raipratikraj
+# Hi, I'm Pratik Raj Rai! 😎  
+Tech enthusiast & web artist.  
+  
 
 <!---
 Pratikrajrai/Pratikrajrai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
