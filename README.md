@@ -1,4 +1,4 @@
-# Hi, I'm Pratik Raj Rai! 😎  
+# Hi, I'm Pratik Raj Rai! 
 Tech enthusiast & web artist.  
   
 
